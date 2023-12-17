@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 echo "Enter the absolute path of the folder you want to create the prefix in:"
 read prefix_folder
 echo "Enter the name of the prefix:"

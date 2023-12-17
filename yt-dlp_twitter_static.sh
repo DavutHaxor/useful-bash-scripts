@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/bash
 
 echo "Enter the Link"
 read link
