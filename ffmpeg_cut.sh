@@ -17,11 +17,11 @@ convert_to_seconds() {
 }
 
 # Prompt user for input
-echo "Skip Time ||| Input File ||| Duration ||| Output File"
-read skip input duration output
+echo "Start Time ||| Input File ||| Duration ||| Output File"
+read start input duration output
 
 # Convert skip time to seconds
-skip_seconds=$(convert_to_seconds "$skip")
+skip_seconds=$(convert_to_seconds "$start")
 #duration_seconds=$(convert_to_seconds "$duration")
 
 # Use ffmpeg with the converted skip time in seconds
