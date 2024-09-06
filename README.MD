@@ -32,10 +32,4 @@ Usage: Just run the script and input with a space between;
 Usage: perc <number> <percentage>
 
 
-## YT-DLP Twitter Static
-Change the {username} and {password} inside the file to fit your account.
-
-Since Twitter is a jerk, it changes the accesibility all the time. Now we can access the files without an account again. Don't know how it will change in the future.
-
-
 
